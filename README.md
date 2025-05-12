@@ -3,3 +3,5 @@
 
 Git & Github öğreniyorum 2. kısım.
 
+
+Ödev için yeni branch oluşturdum.
